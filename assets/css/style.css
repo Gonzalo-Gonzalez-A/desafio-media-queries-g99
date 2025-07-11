@@ -142,7 +142,7 @@ ul {
 }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 992px) {
 ul {
     justify-content: space-around;
 }
